@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
-<h3 align="center">There is no past, no future, only endless present!</h3>
+<h3 align="center">yee!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
